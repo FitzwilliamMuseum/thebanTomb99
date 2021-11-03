@@ -1,0 +1,36 @@
+.body  { color: #000000; font-size: 10pt; font-family: "Lucida Grande", "Comic Sans MS", Arial, Helvetica, Verdana, Geneva, Swiss; font-weight: normal; line-height: 15pt }
+.cellbody { color: #000000; font-weight: normal; font-size: 10pt; font-family: "Lucida Grande", "Comic Sans MS", Arial, Helvetica, Verdana, Geneva, Swiss; font-weight: normal; line-height: 15pt  }
+.cellheading { color: #000000; font-weight: bold; font-size: 10pt; font-family: "Lucida Grande", "Comic Sans MS", Arial, Helvetica, Verdana, Geneva, Swiss; font-weight: normal; line-height: 15pt  }
+.date written { color: #000000; font-weight: normal; font-size: 12pt; font-family: "Adobe Garamond"; text-decoration: none; text-align: right; text-transform: none; text-indent: 0pt; vertical-align: baseline; margin: 8pt 0pt 0pt }
+.diacritics { font-style: italic; font-family: "Dy Garamond" }
+.emphasis { font-variant: small-caps }
+.footnote { color: #000000; font-weight: normal; font-size: 10pt; font-family: "Lucida Grande", "Comic Sans MS", Arial, Helvetica, Verdana, Geneva, Swiss; font-weight: normal; line-height: 15pt  }
+.heading  { color: #000000; font-size: 14pt; font-family: Arial, Helvetica, Geneva, Swiss, Verdana; font-weight: bold; text-decoration: none; text-align: left; text-transform: none; text-indent: 0; margin: 14pt 0 7pt; vertical-align: baseline }
+.heading1 { color: #000000; font-style: italic; font-weight: normal; font-size: 12pt; font-family: Arial, Helvetica, Geneva, Swiss, Verdana; text-decoration: none; text-align: left; text-transform: none; text-indent: 0pt; vertical-align: baseline; margin: 10pt 0pt 0pt }
+.heading2 { color: #000000; font-weight: bold; font-size: 12pt; font-family: Arial, Helvetica, Geneva, Swiss, Verdana; text-decoration: none; text-align: justify; text-transform: none; text-indent: 0pt; vertical-align: baseline; margin: 7pt 0pt 0pt }
+.heading3 { color: #000000; font-style: italic; font-weight: normal; font-size: 12pt; font-family: Arial, Helvetica, Geneva, Swiss, Verdana; text-decoration: none; text-align: justify; text-transform: none; text-indent: 0pt; vertical-align: baseline; margin: 4pt 0pt 1pt }
+.list { color: #000000; font-weight: normal; font-size: 12pt; font-family: Arial, Helvetica, Geneva, Swiss, Verdana; text-decoration: none; text-align: justify; text-transform: none; text-indent: 0pt; vertical-align: baseline; margin: 2pt 0pt 0pt 18pt }
+.name { color: #000000; font-weight: normal; font-size: 14pt; font-family: Arial, Helvetica, Geneva, Swiss, Verdana; text-decoration: none; text-align: center; text-transform: none; text-indent: 0pt; vertical-align: baseline; margin: 14pt 0pt 22pt }
+.pgf { color: #000000; font-weight: normal; font-size: 12pt; font-family: Courier; text-decoration: none; text-align: left; text-transform: none; text-indent: 0pt; vertical-align: baseline; margin: 0pt }
+.small-caps { color: #000000; font-variant: small-caps; font-weight: normal; font-family: Arial, Helvetica, Geneva, Swiss, Verdana; text-decoration: none; text-transform: none; vertical-align: baseline }
+.subscript { vertical-align: sub }
+.superscript { vertical-align: super }
+.title { color: #000000; font-weight: normal; font-size: 22pt; font-family: Arial, Helvetica, Geneva, Swiss, Verdana; text-decoration: none; text-align: center; text-transform: none; text-indent: 0pt; vertical-align: baseline; margin: 0pt 0pt 12pt }
+h1  { font-size: 24pt; font-weight: bold; font-family: "Lucida Grande", "Comic Sans MS", Arial, Helvetica, Verdana, Geneva, Swiss }
+h2 { font-weight: bold; font-size: 18pt; font-family: "Lucida Grande", "Comic Sans MS", Arial, Helvetica, Verdana, Geneva, Swiss }
+h3 { font-weight: bold; font-size: 14pt; font-family: "Lucida Grande", "Comic Sans MS", Arial, Helvetica, Verdana, Geneva, Swiss }
+h4 { font-weight: bold; font-family: Arial, Helvetica, Geneva, Swiss, Verdana }
+li   { font-size: 10pt; font-family: "Lucida Grande", "Comic Sans MS", Arial, Helvetica, Verdana, Geneva, Swiss; line-height: 15pt }
+p   { font-size: 10pt; font-family: "Lucida Grande", "Comic Sans MS", Arial, Helvetica, Verdana, Geneva, Swiss; line-height: 15pt }
+td { font-size: 11pt; font-family: "Lucida Grande", "Comic Sans MS", Arial, Helvetica, Verdana, Geneva, Swiss }
+a  { text-decoration: none }
+a:hover  { color: black ; background-color:#FC9  }
+/* a:visited   { color: #FC6} /* was maroon */ 
+/* a:link    { color: #F60 } /* was green */
+div {font-family: "Lucida Grande", "Comic Sans MS", Arial, Helvetica, Verdana, Geneva, Swiss}
+.table_ent {
+	font-size: 9pt;
+}
+.menu-bg {
+	background-color:#CC9933;
+}
